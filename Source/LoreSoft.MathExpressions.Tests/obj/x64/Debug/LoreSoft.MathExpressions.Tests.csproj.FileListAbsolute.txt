@@ -1,0 +1,13 @@
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions.Tests\bin\x64\Debug\LoreSoft.MathExpressions.Tests.dll.config
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions.Tests\bin\x64\Debug\LoreSoft.MathExpressions.Tests.dll
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions.Tests\bin\x64\Debug\LoreSoft.MathExpressions.Tests.pdb
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions.Tests\bin\x64\Debug\LoreSoft.MathExpressions.dll
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions.Tests\bin\x64\Debug\nunit.framework.dll
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions.Tests\bin\x64\Debug\LoreSoft.MathExpressions.pdb
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions.Tests\bin\x64\Debug\LoreSoft.MathExpressions.xml
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions.Tests\bin\x64\Debug\nunit.framework.xml
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions.Tests\obj\x64\Debug\LoreSoft.MathExpressions.Tests.csproj.AssemblyReference.cache
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions.Tests\obj\x64\Debug\LoreSoft.MathExpressions.Tests.csproj.CoreCompileInputs.cache
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions.Tests\obj\x64\Debug\LoreSoft.MathExpressions.Tests.csproj.CopyComplete
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions.Tests\obj\x64\Debug\LoreSoft.MathExpressions.Tests.dll
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions.Tests\obj\x64\Debug\LoreSoft.MathExpressions.Tests.pdb

@@ -1,0 +1,12 @@
+C:\Users\topps\source\repos\Calculator\Build\x64\Debug\Calculator.exe.config
+C:\Users\topps\source\repos\Calculator\Build\x64\Debug\Calculator.exe
+C:\Users\topps\source\repos\Calculator\Build\x64\Debug\Calculator.pdb
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.Calculator\obj\x64\Debug\LoreSoft.Calculator.csproj.AssemblyReference.cache
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.Calculator\obj\x64\Debug\LoreSoft.Calculator.AboutForm.resources
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.Calculator\obj\x64\Debug\LoreSoft.Calculator.CalculatorForm.resources
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.Calculator\obj\x64\Debug\LoreSoft.Calculator.Properties.Resources.resources
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.Calculator\obj\x64\Debug\LoreSoft.Calculator.csproj.GenerateResource.cache
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.Calculator\obj\x64\Debug\LoreSoft.Calculator.csproj.CoreCompileInputs.cache
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.Calculator\obj\x64\Debug\LoreSoft.Calculator.csproj.CopyComplete
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.Calculator\obj\x64\Debug\Calculator.exe
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.Calculator\obj\x64\Debug\Calculator.pdb

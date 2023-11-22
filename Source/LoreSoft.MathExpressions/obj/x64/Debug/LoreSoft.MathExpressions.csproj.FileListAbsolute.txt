@@ -1,0 +1,11 @@
+C:\Users\topps\source\repos\Calculator\Build\x64\Debug\LoreSoft.MathExpressions.dll
+C:\Users\topps\source\repos\Calculator\Build\x64\Debug\LoreSoft.MathExpressions.pdb
+C:\Users\topps\source\repos\Calculator\Build\x64\Debug\LoreSoft.MathExpressions.XML
+C:\Users\topps\source\repos\Calculator\Build\x64\Debug\LoreSoft.MathExpressions.dll.CodeAnalysisLog.xml
+C:\Users\topps\source\repos\Calculator\Build\x64\Debug\LoreSoft.MathExpressions.dll.lastcodeanalysissucceeded
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions\obj\x64\Debug\LoreSoft.MathExpressions.csproj.AssemblyReference.cache
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions\obj\x64\Debug\LoreSoft.MathExpressions.Properties.Resources.resources
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions\obj\x64\Debug\LoreSoft.MathExpressions.csproj.GenerateResource.cache
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions\obj\x64\Debug\LoreSoft.MathExpressions.csproj.CoreCompileInputs.cache
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions\obj\x64\Debug\LoreSoft.MathExpressions.dll
+C:\Users\topps\source\repos\Calculator\Source\LoreSoft.MathExpressions\obj\x64\Debug\LoreSoft.MathExpressions.pdb
